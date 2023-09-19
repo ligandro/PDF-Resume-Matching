@@ -1,0 +1,2 @@
+# PDF-Resume-Matching
+### The project aimed to develop an automated candidate matching system that uses BERT-based text embeddings to recommend the top candidates for a given job description. The system leverages natural language processing (NLP) techniques to assess the similarity between job descriptions and candidate resumes, ultimately aiding recruiters in identifying the most suitable candidates efficiently.
